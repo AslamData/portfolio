@@ -124,7 +124,7 @@ function App() {
           <motion.div initial={{ opacity: 0, x: 40 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.8 }} className="relative">
             <div className="absolute -inset-4 rounded-3xl bg-cyan-400/10 blur-3xl" />
             <div className="relative rounded-3xl border border-white/10 bg-white/[0.04] p-6 shadow-2xl">
-              <img src="/profile_pic.jpeg" alt="Aslam Khan Mohammed" className="h-80 w-full rounded-2xl object-cover object-top" />
+              <img src="/profile.jpeg" alt="Aslam Khan Mohammed" className="h-80 w-full rounded-2xl object-cover object-top" />
               <div className="mt-6">
                 <p className="text-sm uppercase tracking-[0.2em] text-cyan-400">Based in</p>
                 <p className="mt-1 text-xl font-semibold">California, USA</p>
