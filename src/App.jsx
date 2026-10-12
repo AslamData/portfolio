@@ -102,7 +102,7 @@ function App() {
             <a href="#projects" className="hover:text-cyan-400 transition">Projects</a>
             <a href="#contact" className="hover:text-cyan-400 transition">Contact</a>
           </div>
-          <a href="/Aslam_Khan_Mohammed_Resume.pdf" target="_blank" rel="noopener noreferrer" className="rounded-lg border border-cyan-400 px-4 py-2 text-sm font-semibold text-cyan-300 hover:bg-cyan-400 hover:text-slate-950 transition">Resume</a>
+          <a href="/Aslam_Khan_Mohammed_Resume (6).pdf" target="_blank" rel="noopener noreferrer" className="rounded-lg border border-cyan-400 px-4 py-2 text-sm font-semibold text-cyan-300 hover:bg-cyan-400 hover:text-slate-950 transition">Resume</a>
         </nav>
       </header>
 
@@ -117,7 +117,7 @@ function App() {
             <div className="mt-9 flex flex-wrap gap-4">
               <a href="#projects" className="rounded-lg bg-cyan-400 px-6 py-3 font-semibold text-slate-950 hover:bg-cyan-300 transition">Explore My Work</a>
               <a href="https://github.com/AslamData" target="_blank" rel="noopener noreferrer" className="rounded-lg border border-white/20 px-6 py-3 font-semibold hover:border-cyan-400 hover:text-cyan-300 transition">GitHub Profile</a>
-              <a href="/Aslam_Khan_Mohammed_Resume.pdf" download className="rounded-lg border border-white/20 px-6 py-3 font-semibold hover:border-cyan-400 hover:text-cyan-300 transition">Download Resume</a>
+              <a href="/Aslam_Khan_Mohammed_Resume (6).pdf" download className="rounded-lg border border-white/20 px-6 py-3 font-semibold hover:border-cyan-400 hover:text-cyan-300 transition">Download Resume</a>
             </div>
           </motion.div>
 
