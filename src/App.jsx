@@ -4,7 +4,7 @@ function App() {
   const skillGroups = [
     {
       title: "Programming",
-      skills: ["Python", "SQL", "Java", ".NET Fundamentals"],
+      skills: ["Python", "SQL", "Java", "spark"],
     },
     {
       title: "Machine Learning",
